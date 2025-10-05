@@ -1,4 +1,9 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* varsa özel CSS'lerin buraya */
+
 @import "tw-animate-css";
 
 /* Dark mode custom variant */
